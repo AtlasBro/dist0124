@@ -1,0 +1,1 @@
+{"name":"狛纳消消乐","short_name":"消消乐","description":"一款有趣的消消乐游戏","start_url":"./","display":"fullscreen","background_color":"#A28355","theme_color":"#e67e22","lang":"en","scope":"./","orientation":"portrait","icons":[{"src":"pwa-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa-512x512.png","sizes":"512x512","type":"image/png"}]}
